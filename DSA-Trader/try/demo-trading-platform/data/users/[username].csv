@@ -1,0 +1,2 @@
+name,portfolio,balance,transaction_history
+User,[{"stock":"AAPL","quantity":0},{"stock":"GOOGL","quantity":0}],1000.00,[{"type":"buy","stock":"AAPL","quantity":0,"price":0.00},{"type":"sell","stock":"AAPL","quantity":0,"price":0.00}]

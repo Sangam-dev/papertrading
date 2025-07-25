@@ -1,0 +1,5 @@
+Type,Stock,Quantity,Price
+Buy,AAPL,2,214.39
+Buy,TSLA,1,322.52
+Sell,TSLA,1,322.83
+Sell,AAPL,2,214.44
